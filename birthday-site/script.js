@@ -1,10 +1,3 @@
-/* =====================================================================
-   SNEHA BIRTHDAY WEBSITE — JAVASCRIPT
-
-   This file contains the INTERACTION/BEHAVIOUR of the website.
-   You can safely edit the clearly marked sections later.
-   ===================================================================== */
-
 /* ---------------------------------------------------------------------
    1. SMALL HELPER FUNCTIONS
    --------------------------------------------------------------------- */
@@ -453,9 +446,9 @@ $('#s-intro').addEventListener('click', () => {
 
 const LINES = [
     'Happy Birthday,',
-    'Snehaee 💗',
+    'Goriiiiiii 💗',
     '',
-    'My dearest buddyyyy…',
+    'My bestestttttttt friend and my favorite hooman',
     'Happy Birthdayyy to my favourite headache 😌💖',
     '',
     'Ninte age koodi koodi verunnu…',
@@ -469,9 +462,6 @@ const LINES = [
     'exactly like you are 💕',
     '',
     'Love you loads vaazhaeeeee 💗🎂',
-    '',
-    '— Buddy',
-    'to Sneha, made with love ✨❤'
 ];
 
 let letterStarted = false;
